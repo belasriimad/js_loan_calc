@@ -1,0 +1,9 @@
+body{
+    background: #C9C9C9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+}
+.input-group-prepend,
+.form-control{
+    border-radius: 0;
+}
